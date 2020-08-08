@@ -29,7 +29,7 @@
 
 ### data
 
-`print`  初始化 data_proxy 实例对象，挂载到 Sheet 类上
+`data`  初始化 data_proxy 实例对象，挂载到 Sheet 类上
 
 ### tableEl
 
